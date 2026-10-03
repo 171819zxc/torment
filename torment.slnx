@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="src/torment.vcxproj" Id="203d411b-b8f4-4fb2-8364-018c5fec8744" />
+</Solution>
