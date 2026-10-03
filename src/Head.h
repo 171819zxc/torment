@@ -36,3 +36,6 @@
 #define _34_ cin
 #define _35_ endl
 #define _36_ long
+#define _37_ ()
+#define _38_ .
+#define _39_ ::
